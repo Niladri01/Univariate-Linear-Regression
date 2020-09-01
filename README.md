@@ -2,7 +2,7 @@
 
 *Aim:* The aim of this project was to implement the gradient descent algorithm from scratch, perform univariate linear regression with Numpy and Python and to create data visualizations and plots using matplotlib
 
-*Theoretical Overview:*
+## Theoretical Overview:
 
 *Univariate Linear Regression:* Univariate is a statistics term describing a type of data having only one attribute or a variable. Therefore, Univariate Linear Regression is a type of *supervised machine learning* algorithm which determines relationship between one independent and one dependent variable. 
 
